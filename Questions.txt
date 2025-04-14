@@ -1,0 +1,64 @@
+🧱 1. Variables and Data Types
+
+    Create a variable name and assign your name to it. Print it with a greeting.
+
+    Store your height (float) and age (int) in variables. Print their types.
+
+    Create variables price = 199.99 and quantity = 5. Calculate and print total cost.
+
+    Take a string number "25" and convert it to int. Add 10 and print result.
+
+    Swap values of two variables without using a third variable, and print the result.
+
+🔢 2. Mathematical Expressions
+
+    Calculate the square of a number and print the result.
+
+    Take input for radius and compute the area of a circle.
+
+    Create a BMI calculator (weight / height²). Format result to 2 decimals.
+
+    Take 2 numbers and calculate their GCD (greatest common divisor).
+
+    Create a program to compute compound interest using:
+    A = P * (1 + r/n)^(n*t)
+
+🔁 3. Loops
+
+    Print numbers from 1 to 10 using a for loop.
+
+    Print the first 10 multiples of 3 using a while loop.
+
+    Print a triangle pattern using *, like:
+
+    *
+    **
+    ***
+
+    Take a list of numbers and use a loop to find their average.
+
+    Print the first 10 prime numbers using a loop.
+
+🧮 4. Functions
+
+    Write a function to return the square of a number.
+
+    Create a function that takes a string and returns its length.
+
+    Write a function that checks if a number is even or odd.
+
+    Create a function that takes a list and returns the second-largest number.
+
+    Write a recursive function to calculate the factorial of a number.
+
+📋 5. Lists and Tuples
+
+    Create a list of 5 cities and print the third one.
+
+    Add a new city to the list, then remove one by name.
+
+    Sort a list of integers in descending order without using sort().
+
+    Create a tuple of 5 numbers. Use slicing to print the middle three.
+
+    Write a program to find common elements in two lists (intersection logic).

@@ -62,3 +62,33 @@
     Create a tuple of 5 numbers. Use slicing to print the middle three.
 
     Write a program to find common elements in two lists (intersection logic).
+
+6.Use enumerate() to print index and item from a list of fruits.
+
+    Loop through a list of numbers and print only even-indexed values.
+
+    Modify enumerate() to start counting from 100.
+
+    Combine enumerate() with conditionals: Print index of items > 50.
+
+    Create your own version of enumerate() using a for loop.
+
+7. Use map() to convert a list of strings to uppercase.
+
+    Square all elements in a list using map().
+
+    Convert a list of strings to integers using map().
+
+    Use map() with a custom function that adds 10 to each item.
+
+    Use map() with lambda to remove spaces from a list of strings.
+
+8. Create a lambda that returns the cube of a number.
+
+    Use lambda inside map() to add 5 to each number.
+
+    Use lambda inside filter() to remove empty strings.
+
+    Sort a list of tuples by the second item using lambda.
+
+    Combine map() and lambda() to apply logic on two lists.

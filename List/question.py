@@ -11,3 +11,15 @@ print(city_list)
 
 #3
 tuppple =(1,2,3,5)
+
+# Create a list of 5 fruits and add one more fruit.
+# Remove the 3rd element from a list.
+
+
+fruits = ["Apple","Mango","Watermelon","Tomato","Pineapple"]
+print(fruits)
+
+third_element = fruits.pop(2)
+print(third_element)
+
+

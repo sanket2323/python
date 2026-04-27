@@ -1,5 +1,5 @@
 frutis = ["apple","mango","banana","Goa","santra","Pineapple"]
-
+# use of Enumerate: With Enumerate i can get value and index at a single time.
 #1
 for index, value in enumerate(frutis):
     print(value)

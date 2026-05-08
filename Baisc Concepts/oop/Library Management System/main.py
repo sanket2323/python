@@ -1,14 +1,10 @@
-from book import *
-from user import *
-from admin import *
-print("this file is read")
-admin1 = Admin()
+from operation import *
 
-admin1.add_book(23)
-admin1.add_book(24)
-
-admin1.display_all_books(admin1.book_list)
-admin1.search_book("sanket",admin1.book_list)
+if __name__ == '__main__':
+    main = Operations()
+    main.run()
+    
+    
 
 
 

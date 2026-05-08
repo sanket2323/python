@@ -50,7 +50,3 @@ class Admin:
                 b_list.pop(i)
                 print(f"Book with {book_id} removed from Books List")
                 break
-            
-    
-        
-

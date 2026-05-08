@@ -41,4 +41,16 @@ class Admin:
 
         if not book_found:
             print("Book doesn't exist")
+    
+    def delete_a_book(self,book_id,b_list):
+        self.book_list = b_list
+        
+        for i in range(len(b_list)):
+            if b_list[i].book_id == book_id:
+                b_list.pop(i)
+                print(f"Book with {book_id} removed from Books List")
+                break
+            
+    
+        
 

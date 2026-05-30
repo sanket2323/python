@@ -36,9 +36,46 @@ def extract_number(number):
 
 print(extract_number(num))
 
+cs = "0123456789"
+
+print(int(3.14))
 
 
 
 
 
+
+
+
+
+
+print(text.find('sad'))
+
+matrix = [
+    [1,2,3],
+    [4,5,6]
+]
+#
+final_out = []
+
+def transpose(matrix: list[list[int]]) -> list[list[int]]:
+
+    cols = len(matrix)
+    rows = len(matrix[0])
+
+    ans = []
+
+    for j in range(cols):
+
+        new_row = []
+
+        for i in range(rows):
+
+            new_row.append(matrix[i][j])
+
+        ans.append(new_row)
+
+    return ans
+
+print(transpose(matrix))
 

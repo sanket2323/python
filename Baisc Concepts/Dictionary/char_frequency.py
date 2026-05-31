@@ -1,5 +1,4 @@
-def char_frequency(text:str):
-
+def char_frequency(text: str):
     frequency = {}
 
     for char in text.lower():
@@ -10,6 +9,7 @@ def char_frequency(text:str):
             frequency[char] = 1
 
     return frequency
+
 
 char_frequency('sanket')
 print(char_frequency('sankets'))

@@ -15,5 +15,4 @@ def sum_target(a, target):
 
     return None
 
-
 print(sum_target([1, 2, 3, 4, 5, 6], 3))

@@ -40,17 +40,6 @@ cs = "0123456789"
 
 print(int(3.14))
 
-
-
-
-
-
-
-
-
-
-print(text.find('sad'))
-
 matrix = [
     [1,2,3],
     [4,5,6]
